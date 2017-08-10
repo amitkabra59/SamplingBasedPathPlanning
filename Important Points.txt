@@ -1,0 +1,31 @@
+Complexity- Depends on non-holonomic,kino-dynamics constraint, also on system performance(Memory,RAM).
+
+Non-holonomic constraint- Integrable and non-integrable constraints. In other words, a nonholonomic system is a system whose state depends on the path taken to achieve it.
+
+Holonomic constraint depends only on the coordinates x and time t. It does not depend on the velocities. For a constraint to be holonomic it must be expressible as a function:
+    f ( x 1 ,   x 2 ,   x 3 ,   … ,   x N ,   t )= 0 
+
+Kinodynamic planning- In robotics and motion planning, kinodynamic planning is a class of problems for which velocity, acceleration, and force/torque bounds must be satisfied, together with kinematic constraints such as avoiding obstacles.
+
+Degrees of freedom, in a mechanics context, are specific, defined modes in which a mechanical device or system can move. The number of degrees of freedom is equal to the total number of independent displacements or aspects of motion.
+
+Example of Motion Planning is Car Driving Test. There are obstacles which we have to avoided and reach goal.
+
+Non-Convex: Surfaces rounded inwards.
+
+If an earthquake or tragedy occurs, for example if the pole falls infront of robot then how would robot know about the pole? The simple answer is by using sensors. Which sensors? Infra-red receiver sensors or Inductive proximity sensors.
+
+Future scope of RRT? To be used in real-time applications.
+
+Definite Question in Viva..............
+
+What is your contribution in project?
+Vasanth- Helped in coding.
+Chandana- State space and obstacles UI design 
+Amit- Algorithm and Path smoothing coding
+
+
+BEST OF LUCK!!!!!
+We will do well.
+
+  
