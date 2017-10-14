@@ -1,2 +1,2 @@
 # SamplingBasedPathPlanning
-This is my B.Tech Final year project
+BACHELOR THESIS PROJECT
