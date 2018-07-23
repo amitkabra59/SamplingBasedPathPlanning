@@ -10,7 +10,7 @@ This project requires **Matlab** environment
 ### Data
 
 Data consists of data points of obstacles in the environment which should be avoided.
-###Deliverables:
+### Deliverables:
 * [code](./RRTpathplan.m) 
 * [data](./obst.txt)
 
